@@ -18,3 +18,5 @@ This is neural translation project for machine learning. Deadline 2021.6.5.
 1. Check the dataset in torchnlp is the same as requirement.
 2. Look for better computation resources.
 3. Currently we use RNN+ATN, find the improvement.
+4. bmm in reality, how batch size implemented in network?
+5. Can it predict different length sentence?
