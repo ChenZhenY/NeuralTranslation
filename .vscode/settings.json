@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/home/roma/anaconda3/envs/python_38-pytorch_1.7.0/bin/python"
+    "python.pythonPath": "/home/roma/anaconda3/envs/python_38-pytorch_1.7.0/bin/python",
+    "jupyter.jupyterServerType": "local"
 }
